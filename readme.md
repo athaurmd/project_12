@@ -11,4 +11,4 @@ I learnt to design the web-page for different screens.(a responsive web-page)
 
 # Live Link of Project
 
-[Netlify-Link](https://Business-web-services-Landing-homepage.netlify.app/)
+[Netlify-Link](https://business-webservices-landing-homepage.netlify.app/)
